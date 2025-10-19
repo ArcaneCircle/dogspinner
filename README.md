@@ -1,4 +1,4 @@
-# DOGSPINNER
+# DOG SPINNER
 
 A webxdc port of [the original dogspinner](https://github.com/TodePond/pigen-palace/tree/main/dogspinner)
 (check https://pigenpalace.com/)
